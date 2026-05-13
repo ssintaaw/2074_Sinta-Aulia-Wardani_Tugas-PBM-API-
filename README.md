@@ -11,4 +11,5 @@ Postman Login
 <img width="1920" height="1200" alt="Screenshot 2026-05-12 222917" src="https://github.com/user-attachments/assets/7a5e80c5-e586-4a10-a9a9-45314d6aeb1c" />
 
 Postman Produk/tambah produk
-<img width="1920" height="1200" alt="Screenshot 2026-05-12 222917" src="https://github.com/user-attachments/assets/8041cac5-f87d-4647-b1c9-da5ded7acd30" />
+<img width="1535" height="907" alt="Screenshot 2026-05-12 223146" src="https://github.com/user-attachments/assets/17910140-bb6b-4c4c-b6d7-1d9dced2c6d6" />
+
