@@ -6,3 +6,9 @@ Submit tugas berhasil
 
 Page Submit Tugas
 <img width="1920" height="1200" alt="Screenshot 2026-05-13 162853" src="https://github.com/user-attachments/assets/4c2a1fa0-5091-4b73-a2b5-f4c3add8c040" />
+
+Postman Login
+<img width="1920" height="1200" alt="Screenshot 2026-05-12 222917" src="https://github.com/user-attachments/assets/7a5e80c5-e586-4a10-a9a9-45314d6aeb1c" />
+
+Postman Produk/tambah produk
+<img width="1920" height="1200" alt="Screenshot 2026-05-12 222917" src="https://github.com/user-attachments/assets/8041cac5-f87d-4647-b1c9-da5ded7acd30" />
